@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**annykaro/annykaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BEM VINDO AO MEU PERFIL💕😜🌹🤑
 
-Here are some ideas to get you started:
+**Meu nome é Anny Karoline de Sales Rocha Bezerra.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou me desenvolvendo na linguagem Javascript e Markdown
+
+- este é um repositório para compartilhamento de projeto da platarfoma [Alura](https://cursos.alura.com.br/).
+
+- **Voce pode entrar em contato comigo 📞**
+
+- 00001148667039SP@al.educacao.sp.gov.br
+
+- ![](https://media1.tenor.com/m/AQQS6bMiRB8AAAAC/flamengo-segue-o-lider.gif)
